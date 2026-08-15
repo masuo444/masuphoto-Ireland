@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masuphoto-ireland.fomusglobal.com/sitemap.xml
